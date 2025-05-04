@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi there, I'm Vincent Nguyen
 
-<!--
-**nntrvy/nntrvy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my corner of GitHub 👨‍💻  
+I’m a **research-driven founder**, **startup builder**, and **creative systems thinker** passionate about turning real-world problems into human-centered digital solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm Working On
+
+- 🧪 Running [OS Research](https://osresearch.vn) — a Startup Studio focused on validating ideas with **experiments**, not assumptions  
+- 📊 Building tools and systems for better **insurance**, **mobility**, and **community experiences** in Vietnam  
+- ✍️ Day dreaming about tech, design, and experimentation  
+- 🔎 Exploring how AI + storytelling can reshape user research & product discovery
+
+---
+
+### 🛠 Skills & Tools
+
+Business Design     ▓▓▓▓▓▓▓▓▓░
+Product Strategy    ▓▓▓▓▓▓▓▓░░
+UX Research         ▓▓▓▓▓▓▓░░░
+AI/No-Code Tools    ▓▓▓▓▓▓░░░░
+System Thinking     ▓▓▓▓▓▓▓▓▓▓
