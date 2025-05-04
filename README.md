@@ -18,6 +18,5 @@ I’m a **research-driven founder**, **startup builder**, and **creative systems
 
 Business Design     ▓▓▓▓▓▓▓▓▓░
 Product Strategy    ▓▓▓▓▓▓▓▓░░
-UX Research         ▓▓▓▓▓▓▓░░░
-AI/No-Code Tools    ▓▓▓▓▓▓░░░░
+Talking to people   ▓▓▓▓▓▓▓▓▓░
 System Thinking     ▓▓▓▓▓▓▓▓▓▓
